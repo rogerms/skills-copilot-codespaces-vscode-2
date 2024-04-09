@@ -11,8 +11,6 @@ app.get('/about', (req: any, res: any) => {
     res.sendFile(__dirname + '/about.html');
 });
 
-
-
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
 });
