@@ -4,7 +4,7 @@ const app = express();
 const port = 3000;
 
 app.get('/', (req, res) => {
-    res.send('<div style="margin: 10px; padding: 10px 20px; color:red; font-weight:bold" >Hello, World!</div>');
+    res.send('<div style="margin: 10px; padding: 10px 20px;font-weight:bold; font-size:15pt;" >Hello, World!</div>');
 });
 
 app.get('/about', (req, res) => {
