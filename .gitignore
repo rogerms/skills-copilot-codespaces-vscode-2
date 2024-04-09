@@ -19,6 +19,8 @@
 *.rar
 *.tar
 *.zip
+node_modules/
+*.lock
 
 # Logs and databases #
 ######################
@@ -35,3 +37,4 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+

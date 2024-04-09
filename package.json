@@ -1,0 +1,14 @@
+{
+  "name": "skills-copilot-codespaces-vscode-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rogerms/skills-copilot-codespaces-vscode-2",
+  "author": "rogerms <sirsroger@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
